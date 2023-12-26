@@ -1,5 +1,4 @@
-[![BrokenFragment67's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrokenFragment67)](https://github.com/anuraghazra/github-readme-stats)
-![BrokenFragment67's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrokenFragment67&show_icons=true)
+
 ![BrokenFragment67's stats](https://github-readme-stats.vercel.app/api?username=BrokenFragment67&show_icons=true&theme=radical)
 
 ### Hi there 👋
